@@ -1,12 +1,6 @@
 # Site Settings
-navigation:
-- title: Quién soy
- url: /about
-- title: Publicaciones
- url: /writing
--title: Contacto
- url: /contact
-paginate:            5
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}           5
 
 # Build settings
 markdown:            kramdown
