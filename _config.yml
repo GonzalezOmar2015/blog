@@ -1,7 +1,4 @@
 # Site Settings
-navigation:
-- title: Acerrrca
- url: /about
 paginate:            5
 # Build settings
 markdown:            kramdown
@@ -10,8 +7,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
-#title:		     "Lagrange-Custom"
-#description:	     "a minimalist Jekyll theme-Custom"
+title:		     "Un nuevo titulo"
+description:	     "Descripcion de todo esto"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
