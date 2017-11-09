@@ -1,6 +1,6 @@
 # Site Settings
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}           5
+- {name: 'Acerca', path: 'menu', url: 'about.html'}           5
 
 # Build settings
 markdown:            kramdown
