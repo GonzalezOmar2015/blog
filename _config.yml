@@ -1,9 +1,8 @@
 # Site Settings
-paginate:            5
 navigation:
 - title: Acerrrca
  url: /about
-
+paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
