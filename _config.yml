@@ -1,9 +1,8 @@
 # Site Settings
 paginate:            5
-menu:
-- {name: 'Acerca', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+navigation:
+- title: Acerrrca
+ url: /about
 
 # Build settings
 markdown:            kramdown
