@@ -1,11 +1,11 @@
 # Site Settings
 navigation:
 - title: Quién soy
- url: /about
+ url: /menu/about
 - title: Publicaciones
- url: /writing
+ url: /menu/writing
 -title: Contacto
- url: /contact
+ url: /menu/contact
 paginate:            5
 
 # Build settings
