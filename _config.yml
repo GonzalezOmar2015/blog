@@ -1,6 +1,7 @@
 # Site Settings
+paginate:            5
 menu:
-- {name: 'Acerca', path: 'menu', url: 'about.html'}           5
+- {name: 'Acerca', path: 'menu', url: 'about.html'}
 
 # Build settings
 markdown:            kramdown
