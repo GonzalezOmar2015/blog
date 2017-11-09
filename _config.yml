@@ -1,5 +1,5 @@
 # Site Settings
-menu:
+navigation:
 - title: Acerrrca
  url: /about
 paginate:            5
